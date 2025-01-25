@@ -5,6 +5,7 @@ import java.util.List;
 import lombok.Data;
 
 @Data
+    
 public class BoardGame {
 
     private Long id;
